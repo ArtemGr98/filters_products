@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9c40a2a.css",
-    "main.js": "/static/js/main.f9a69aa8.js",
-    "static/js/787.db5c1d37.chunk.js": "/static/js/787.db5c1d37.chunk.js",
-    "static/media/loader2.gif": "/static/media/loader2.a1a996746e5e48352c81.gif",
-    "static/media/bad.svg": "/static/media/bad.ca354282edb92f56fcf03b26cbc7fb4e.svg",
-    "index.html": "/index.html",
-    "main.c9c40a2a.css.map": "/static/css/main.c9c40a2a.css.map",
-    "main.f9a69aa8.js.map": "/static/js/main.f9a69aa8.js.map",
-    "787.db5c1d37.chunk.js.map": "/static/js/787.db5c1d37.chunk.js.map"
+    "main.css": "/unilime_test/static/css/main.c9c40a2a.css",
+    "main.js": "/unilime_test/static/js/main.79673eaa.js",
+    "static/js/787.db5c1d37.chunk.js": "/unilime_test/static/js/787.db5c1d37.chunk.js",
+    "static/media/loader2.gif": "/unilime_test/static/media/loader2.a1a996746e5e48352c81.gif",
+    "index.html": "/unilime_test/index.html",
+    "static/media/bad.svg": "/unilime_test/static/media/bad.ca354282edb92f56fcf03b26cbc7fb4e.svg",
+    "main.c9c40a2a.css.map": "/unilime_test/static/css/main.c9c40a2a.css.map",
+    "main.79673eaa.js.map": "/unilime_test/static/js/main.79673eaa.js.map",
+    "787.db5c1d37.chunk.js.map": "/unilime_test/static/js/787.db5c1d37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9c40a2a.css",
-    "static/js/main.f9a69aa8.js"
+    "static/js/main.79673eaa.js"
   ]
 }
